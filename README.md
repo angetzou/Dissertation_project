@@ -1,5 +1,8 @@
 # Dissertation_project
 Dissertation_project
+
+Author: Angelis Tzouchas
+
 Format of the file
 
 create a folder such as : dissertation folder and paste Dataset and matrix-free-ipm files inside
