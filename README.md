@@ -5,14 +5,14 @@ Author: Angelis Tzouchas
 
 Format of the file
 
-create a folder such as : dissertation folder and paste Dataset and matrix-free-ipm files inside
+create a folder such as : dissertation folder and paste Dataset and matrix-free-ipm folders inside
 
 dissertation_folder
 	Dataset
 	matrix-free-ipm
 
 
-In matrix-free-ipm we have all the codes.
+In matrix-free-ipm we have all the codes and the qap folder
 In Dataset we have the Netlib collection.
 
 
